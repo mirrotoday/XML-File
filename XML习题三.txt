@@ -1,88 +1,88 @@
-1.Ê²Ã´½ÐÓÐÐ§µÄXMLÎÄ¼þ£¿
+1.ä»€ä¹ˆå«æœ‰æ•ˆçš„XMLæ–‡ä»¶ï¼Ÿ
 
-´ð£ºÒ»¸ö¹æ·¶µÄXMLÎÄ¼þÈç¹ûºÍÄ³¸öDTDÎÄ¼þÏà¹ØÁª£¬²¢×ñÊØDTDÎÄ¼þ¹æ¶¨µÄÔ¼ÊøÌõ¼þ£¬¾Í³ÆÎªÓÐÐ§µÄXMLÎÄ¼þ
+ç­”ï¼šä¸€ä¸ªè§„èŒƒçš„XMLæ–‡ä»¶å¦‚æžœå’ŒæŸä¸ªDTDæ–‡ä»¶ç›¸å…³è”ï¼Œå¹¶éµå®ˆDTDæ–‡ä»¶è§„å®šçš„çº¦æŸæ¡ä»¶ï¼Œå°±ç§°ä¸ºæœ‰æ•ˆçš„XMLæ–‡ä»¶
 
-2.DTDÎÄ¼þµÄ±àÂë±ØÐëºÍÆäÔ¼ÊøµÄXMLÎÄ¼þµÄ±àÂëÏàÒ»ÖÂÂð£¿
+2.DTDæ–‡ä»¶çš„ç¼–ç å¿…é¡»å’Œå…¶çº¦æŸçš„XMLæ–‡ä»¶çš„ç¼–ç ç›¸ä¸€è‡´å—ï¼Ÿ
 
-´ð£ºDTDÎÄ¼þµÄ±àÂë±ØÐëºÍÆäÔ¼ÊøµÄXMLÎÄ¼þµÄ±àÂëÒ»ÖÂ
+ç­”ï¼šDTDæ–‡ä»¶çš„ç¼–ç å¿…é¡»å’Œå…¶çº¦æŸçš„XMLæ–‡ä»¶çš„ç¼–ç ä¸€è‡´
 
-3.DTDÎÄ¼þÖÐÔªËØµÄ×÷ÓÃºÍÆäÔÚDTDÎÄ¼þÖÐµÄÊéÐ´Î»ÖÃÓÐ¹ØÂð£¿
+3.DTDæ–‡ä»¶ä¸­å…ƒç´ çš„ä½œç”¨å’Œå…¶åœ¨DTDæ–‡ä»¶ä¸­çš„ä¹¦å†™ä½ç½®æœ‰å…³å—ï¼Ÿ
 
-´ð£ºDTDÎÄ¼þÖÐÔªËØµÄ×÷ÓÃºÍÆäÔÚDTDÎÄ¼þÖÐµÄÊéÐ´Î»ÖÃÎÞ¹Ø
+ç­”ï¼šDTDæ–‡ä»¶ä¸­å…ƒç´ çš„ä½œç”¨å’Œå…¶åœ¨DTDæ–‡ä»¶ä¸­çš„ä¹¦å†™ä½ç½®æ— å…³
 
-4.XMLÎÄ¼þÈçºÎºÍÒ»¸öDTDÎÄ¼þÏà¹ØÁª£¿
+4.XMLæ–‡ä»¶å¦‚ä½•å’Œä¸€ä¸ªDTDæ–‡ä»¶ç›¸å…³è”ï¼Ÿ
 
-´ð£º(1)Ê¹ÓÃSYSTEMÎÄµµÀàÐÍÉùÃ÷µÄ¸ñÊ½£º
-    <DOCTYPE¸ù±ê¼ÇµÄÃû³ÆSYSTEM "DTDÎÄ¼þµÄURI">
-    (2)Ê¹ÓÃPUBLICÎÄµµÀàÐÍÉùÃ÷µÄ¸ñÊ½£º
-    <!DOCTYPE¸ù±ê¼ÇµÄÃû³Æ PUBLIC "ÕýÊ½¹«ÓÃ±êÊ¶·û" "DTDÎÄ¼þµÄURI">
+ç­”ï¼š(1)ä½¿ç”¨SYSTEMæ–‡æ¡£ç±»åž‹å£°æ˜Žçš„æ ¼å¼ï¼š
+    <DOCTYPEæ ¹æ ‡è®°çš„åç§°SYSTEM "DTDæ–‡ä»¶çš„URI">
+    (2)ä½¿ç”¨PUBLICæ–‡æ¡£ç±»åž‹å£°æ˜Žçš„æ ¼å¼ï¼š
+    <!DOCTYPEæ ¹æ ‡è®°çš„åç§° PUBLIC "æ­£å¼å…¬ç”¨æ ‡è¯†ç¬¦" "DTDæ–‡ä»¶çš„URI">
 
-5.¶ÔÓÚÒ»¸öÓÐÐ§µÄXMLÎÄ¼þ±ê¼ÇÖÐµÄÊôÐÔÒ»¶¨ÒªÓÐATTLISTÊôÐÔÔ¼ÊøÁÐ±í¶ÔÆä½øÐÐÔ¼ÊøÂð£¿
+5.å¯¹äºŽä¸€ä¸ªæœ‰æ•ˆçš„XMLæ–‡ä»¶æ ‡è®°ä¸­çš„å±žæ€§ä¸€å®šè¦æœ‰ATTLISTå±žæ€§çº¦æŸåˆ—è¡¨å¯¹å…¶è¿›è¡Œçº¦æŸå—ï¼Ÿ
 
-´ð£ºÒ»¶¨
+ç­”ï¼šä¸€å®š
 
-6.ÏÂÁÐATTLISTÊôÐÔÔ¼ÊøÓÐºÎ²»Í¬£¿
-£¨1£©<!ATTLIST ÕÅÈý  Ñ§ºÅ CDATA #REQUIRED>
-£¨2£©<!ATTLIST ÕÅÈý  Ñ§ºÅ CDATA #FiXED "220123">
-£¨3£©<!ATTLIST ÕÅÈý  Ñ§ºÅ CDATA # #IMPLIED>
-´ð£º£¨1£©Ô¼Êø±ê¼Ç¡°ÕÅÈý¡±±ØÐëÓÐ¡°Ñ§ºÅ¡±ÊôÐÔ
-    £¨2£©Ô¼Êø±ê¼Ç¡°ÕÅÈý¡±±ØÐëÓÐ¡°Ñ§ºÅ¡±ÊôÐÔ£¬¶øÇÒÑ§ºÅµÄÊôÐÔÖµÊÇ¹Ì¶¨µÄ220123¡£
-    £¨3£©Ô¼Êø±ê¼Ç¡°ÕÅÈý¡±¿ÉÒÔÓÐÒ²¿ÉÒÔÃ»ÓÐ¡°Ñ§ºÅ¡±ÊôÐÔ¡£
-7.IDÀàÐÍµÄÊôÐÔÓÐÊ²Ã´ÌØµã£¿
+6.ä¸‹åˆ—ATTLISTå±žæ€§çº¦æŸæœ‰ä½•ä¸åŒï¼Ÿ
+ï¼ˆ1ï¼‰<!ATTLIST å¼ ä¸‰  å­¦å· CDATA #REQUIRED>
+ï¼ˆ2ï¼‰<!ATTLIST å¼ ä¸‰  å­¦å· CDATA #FiXED "220123">
+ï¼ˆ3ï¼‰<!ATTLIST å¼ ä¸‰  å­¦å· CDATA # #IMPLIED>
+ç­”ï¼šï¼ˆ1ï¼‰çº¦æŸæ ‡è®°â€œå¼ ä¸‰â€å¿…é¡»æœ‰â€œå­¦å·â€å±žæ€§
+    ï¼ˆ2ï¼‰çº¦æŸæ ‡è®°â€œå¼ ä¸‰â€å¿…é¡»æœ‰â€œå­¦å·â€å±žæ€§ï¼Œè€Œä¸”å­¦å·çš„å±žæ€§å€¼æ˜¯å›ºå®šçš„220123ã€‚
+    ï¼ˆ3ï¼‰çº¦æŸæ ‡è®°â€œå¼ ä¸‰â€å¯ä»¥æœ‰ä¹Ÿå¯ä»¥æ²¡æœ‰â€œå­¦å·â€å±žæ€§ã€‚
+7.IDç±»åž‹çš„å±žæ€§æœ‰ä»€ä¹ˆç‰¹ç‚¹ï¼Ÿ
 
-´ð£ºIDÀàÐÍµÄÊôÐÔµÄÊôÐÔÖµ¾ßÓÐ»¥³âÐÔ£¬¼´ËùÓÐIDÀàÐÍµÄÊôÐÔµÄÊôÐÔÖµ±ØÐë»¥²»ÏàÍ¬¡£
+ç­”ï¼šIDç±»åž‹çš„å±žæ€§çš„å±žæ€§å€¼å…·æœ‰äº’æ–¥æ€§ï¼Œå³æ‰€æœ‰IDç±»åž‹çš„å±žæ€§çš„å±žæ€§å€¼å¿…é¡»äº’ä¸ç›¸åŒã€‚
 
-8.ÈôXMLÎÄ¼þÖÐÃ»ÓÐ±ê¼ÇµÄÊôÐÔÊ±IDÀàÐÍ£¬£¬ÄÇÃ´½«Ä³¸öÊôÐÔµÄÀàÐÍÔ¼ÊøÎªIDREFÀàÐÍÊÇ·ñºÏÀí£¿
+8.è‹¥XMLæ–‡ä»¶ä¸­æ²¡æœ‰æ ‡è®°çš„å±žæ€§æ—¶IDç±»åž‹ï¼Œï¼Œé‚£ä¹ˆå°†æŸä¸ªå±žæ€§çš„ç±»åž‹çº¦æŸä¸ºIDREFç±»åž‹æ˜¯å¦åˆç†ï¼Ÿ
 
-´ð£º²»ºÏÀí
+ç­”ï¼šä¸åˆç†
 
-9.Èç¹ûÒ»¸öÊôÐÔµÄÀàÐÍÊÇNMTOKEN£¬ÏÂÁÐÄÇ¸ö×Ö·û´®ÊÇ¸ÃÊôÐÔ¿ÉÒÔÈ¡µÄÊôÐÔÖµ£¿
-£¨1£©hello
-£¨2£©How are you 
-£¨3£©_Good
-£¨4£©2002-12-22
+9.å¦‚æžœä¸€ä¸ªå±žæ€§çš„ç±»åž‹æ˜¯NMTOKENï¼Œä¸‹åˆ—é‚£ä¸ªå­—ç¬¦ä¸²æ˜¯è¯¥å±žæ€§å¯ä»¥å–çš„å±žæ€§å€¼ï¼Ÿ
+ï¼ˆ1ï¼‰hello
+ï¼ˆ2ï¼‰How are you    ï¼ˆä¸èƒ½åŒ…æ‹¬ç©ºæ ¼ï¼‰
+ï¼ˆ3ï¼‰_Good
+ï¼ˆ4ï¼‰2002-12-22
 
-´ð£º£¨1£©¡¢£¨3£©¡¢£¨4£©ÊÇNMTOKENÊôÐÔ¿ÉÒÔÈ¡µÄÊôÐÔÖµ
+ç­”ï¼šï¼ˆ1ï¼‰ã€ï¼ˆ3ï¼‰ã€ï¼ˆ4ï¼‰æ˜¯NMTOKENå±žæ€§å¯ä»¥å–çš„å±žæ€§å€¼
 
-10.ÈôÓÐÈçÏÂµÄDTDÎÄ¼þ£º
+10.è‹¥æœ‰å¦‚ä¸‹çš„DTDæ–‡ä»¶ï¼š
 	A.dtd
 
-   <!ELEMENT ³É¼¨µ¥  £¨Ñ§Éú*£©> 
-   <!ELEMENT Ñ§Éú  £¨ÐÕÃû£¬³É¼¨£©> 
-   <!ELEMENT ÐÕÃû  £¨# PCDATA£©> 
-   <!ELEMENT ³É¼¨  £¨# PCDATA£©> 
-ÇëÎÊÏÂÃæµÄXMLÎÄ¼þÓÐÐ§Âð£¿Èç¹û²»ÊÇÓÐÐ§µÄ£¬Çë½«ÆäÐÞ¸ÄÎªÓÐÐ§µÄ¡£
+   <!ELEMENT æˆç»©å•  ï¼ˆå­¦ç”Ÿ*ï¼‰> 
+   <!ELEMENT å­¦ç”Ÿ  ï¼ˆå§“åï¼Œæˆç»©ï¼‰> 
+   <!ELEMENT å§“å  ï¼ˆ# PCDATAï¼‰> 
+   <!ELEMENT æˆç»©  ï¼ˆ# PCDATAï¼‰> 
+è¯·é—®ä¸‹é¢çš„XMLæ–‡ä»¶æœ‰æ•ˆå—ï¼Ÿå¦‚æžœä¸æ˜¯æœ‰æ•ˆçš„ï¼Œè¯·å°†å…¶ä¿®æ”¹ä¸ºæœ‰æ•ˆçš„ã€‚
 
 	B.dtd
    <?xml version="1.0" encoding = "utf-8"?>
-   <!DOCTYPE  ³É¼¨µ¥ SYSTEM  "A.dtd">
-   <³É¼¨µ¥>
-	   <Ñ§Éú>
-		  <ÐÕÃû> ÕÅÈý </ÐÕÃû>
-		  <³É¼¨> ÓÅÐã </³É¼¨>
-	   </Ñ§Éú>
+   <!DOCTYPE  æˆç»©å• SYSTEM  "A.dtd">
+   <æˆç»©å•>
+	   <å­¦ç”Ÿ>
+		  <å§“å> å¼ ä¸‰ </å§“å>
+		  <æˆç»©> ä¼˜ç§€ </æˆç»©>
+	   </å­¦ç”Ÿ>
 	
-	   <Ñ§Éú>
-		  <³É¼¨> Á¼ºÃ </³É¼¨>
-		  <ÐÕÃû> ÀîËÄ </ÐÕÃû>
-	   </Ñ§Éú>
-   </³É¼¨µ¥>
+	   <å­¦ç”Ÿ>
+		  <æˆç»©> è‰¯å¥½ </æˆç»©>
+		  <å§“å> æŽå›› </å§“å>
+	   </å­¦ç”Ÿ>
+   </æˆç»©å•>
 
 
-´ð:B.XMLÎÄ¼þ²»ÊÇÓÐÐ§µÄ¡£
+ç­”:B.XMLæ–‡ä»¶ä¸æ˜¯æœ‰æ•ˆçš„ã€‚
 
-   B.xmlÐÞ¸ÄÎªÓÐÐ§£º
+   B.xmlä¿®æ”¹ä¸ºæœ‰æ•ˆï¼š
    	<?xml version="1.0" encoding = "UTF-8"?>
-   	<!DOCTYPE  ³É¼¨µ¥ SYSTEM  "A.dtd">
-   	<³É¼¨µ¥>
-		   <Ñ§Éú>
-		  	<ÐÕÃû> ÕÅÈý </ÐÕÃû>
-		  	<³É¼¨> ÓÅÐã </³É¼¨>
-	  	 </Ñ§Éú>
+   	<!DOCTYPE  æˆç»©å• SYSTEM  "A.dtd">
+   	<æˆç»©å•>
+		   <å­¦ç”Ÿ>
+		  	<å§“å> å¼ ä¸‰ </å§“å>
+		  	<æˆç»©> ä¼˜ç§€ </æˆç»©>
+	  	 </å­¦ç”Ÿ>
 	
-	   	<Ñ§Éú>
-		  	<ÐÕÃû> ÀîËÄ </ÐÕÃû>
-		  	<³É¼¨> Á¼ºÃ </³É¼¨>
-	   	</Ñ§Éú>
-   	</³É¼¨µ¥>
+	   	<å­¦ç”Ÿ>
+		  	<å§“å> æŽå›› </å§“å>
+		  	<æˆç»©> è‰¯å¥½ </æˆç»©>
+	   	</å­¦ç”Ÿ>
+   	</æˆç»©å•>
 
